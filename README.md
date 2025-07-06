@@ -82,3 +82,18 @@ Order priority influences shipping method choice and cost efficiency
 ✨ Reflection
 
 This project strengthened my ability to write complex SQL queries, join large tables, and interpret business insights from structured datasets.
+
+
+#  Report Summary
+
+I conducted an in-depth SQL-based analysis on KMS’s sales, customer, and shipping datasets to uncover trends, performance gaps, and strategic opportunities. The analysis focused on identifying top-selling product categories, regional sales performance, customer segmentation, shipping efficiency, and revenue optimization.
+
+ I tracked sales by category, region, and customer type to evaluate business growth areas.
+
+Further analysis revealed that Express Air incurred the highest shipping costs, while Delivery Truck was most economical but slower. However, shipping choices were not always aligned with order priority, leading to cost inefficiencies.
+
+Additionally, I identified the top-performing customers by segment, the small business customer with the highest sales, and the corporate client with the most orders between 2009–2012. 
+
+A key insight was that several low-priority orders used expensive shipping methods, and high-potential customers were underengaged.
+
+I recommended aligning shipping methods with order priority, promoting customer loyalty strategies, and increasing engagement with the bottom 10 customers to boost revenue
