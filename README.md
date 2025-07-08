@@ -97,3 +97,13 @@ Additionally, I identified the top-performing customers by segment, the small bu
 A key insight was that several low-priority orders used expensive shipping methods, and high-potential customers were underengaged.
 
 I recommended aligning shipping methods with order priority, promoting customer loyalty strategies, and increasing engagement with the bottom 10 customers to boost revenue
+
+## Dataset link
+
+https://drive.google.com/file/d/1XJggfREyJeVn1-5cNAKWdLlqBNmHxmNI/view?usp=sharing
+https://drive.google.com/file/d/1ngbPKC5TL1AHUu_--akkjFgVSmeJ1cgQ/view?usp=sharing
+
+## Drive Project File link
+
+https://drive.google.com/file/d/1IXmhJJExDZAkSoMZzAOzDX3fh2M3i4hK/view?usp=sharing
+
